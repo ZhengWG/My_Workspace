@@ -105,5 +105,6 @@ eval "$(pyenv virtualenv-init -)"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias emacs="emacs -nw"
+alias ll="ls --all -lh"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
